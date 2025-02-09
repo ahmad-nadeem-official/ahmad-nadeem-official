@@ -6,7 +6,7 @@ Hi there, I'm Ahmad 👨‍💻 (a.k.a **Bruce Wayne** of Tech!)
 🔥 **About Me**
 ---------------
 
-Hey, I’m Ahmad 🚀—a passionate Data Scientist, Full-Stack Developer, and Semi-AI/ML Engineer on a mission to solve real-world problems with innovative tech solutions. Like Batman patrols Gotham, I code to bring order to complex problems and create impactful solutions for users.
+Hey, I’m Ahmad 🚀—a passionate Data Scientist, Full-Stack Developer,and AI/ML Engineer on a mission to solve real-world problems with innovative tech solutions. Like Batman patrols Gotham, I code to bring order to complex problems and create impactful solutions for users.
 
 ![Dark Knight Mode](https://media.giphy.com/media/tsa1OggzHsc9O/giphy.gif?cid=790b76112d9p2c90rijmuuwitedjjefivnf2b6zptbs3uvn1&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
