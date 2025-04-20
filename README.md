@@ -1,93 +1,83 @@
-Hi there, I'm Ahmad 👨‍💻 (a.k.a **Bruce Wayne** of Tech!)
-==========================================================
+<h1 align="center">Hi 👋, I'm an Ai/Ml engineer & full stack developer </h1>
+<h3 align="center">🚀 Building Scalable Ai/Ml models | 💻 Backend Wizard | 🤝 Open for Freelance & OSS</h3>
 
-![Welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ5cDJjOTByaWptdXV3aXRlZGpqZWZpdm5mMmI2enB0YnMzdXZuMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0NwGpoOVLTAyUJSo/giphy.gif)
+---
 
-🔥 **About Me**
----------------
+### 🧠 About Me
+- 🛠️ Tech entrepreneur building smart SAAS
+- 🌍 Based in **Lahore, Pakistan**
+- 🔥 student at **University of punjab, lahore**
+- ✉️ Reach me at **ahmadnadeem701065@gmail.com**
+- 💬 I love talking about **tech, system design, backend optimization, and scalable Ai/Ml models**
+- 🤝 Open to **freelance** & **open-source collaborations**
 
-Hey, I’m Ahmad 🚀—a passionate Data Scientist, Full-Stack Developer,and AI/ML Engineer on a mission to solve real-world problems with innovative tech solutions. Like Batman patrols Gotham, I code to bring order to complex problems and create impactful solutions for users.
+---
 
-![Dark Knight Mode](https://media.giphy.com/media/tsa1OggzHsc9O/giphy.gif?cid=790b76112d9p2c90rijmuuwitedjjefivnf2b6zptbs3uvn1&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+### 🚀 Tech Stack
 
-I am deeply motivated by the power of technology and have honed a wide array of skills across various fields, including data analysis, machine learning, app development, and automation. My journey began with curiosity and a love for tinkering with code, leading me to become a versatile developer with a strong foundation in both backend and frontend technologies.
+#### Languages & Markup  
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-17-00599C?logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-3-1572B6?logo=css3&logoColor=white)  
+![R](https://img.shields.io/badge/R-4.3.1-276DC3?logo=r&logoColor=white)
 
-With hands-on experience in diverse tech projects, I thrive in environments where I can challenge the status quo, think creatively, and make meaningful contributions. Whether it's building an AI chatbot or enhancing a trading strategy, I approach each project with dedication and a commitment to excellence.
+#### Frameworks & Libraries  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4-F7931E?logo=scikit-learn&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-2.1.0-EE4C2C?logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.14-FF6F00?logo=tensorflow&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-2.x-000000?logo=flask&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-2.1.4-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-1.26.4-013243?logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.4-11557C?logo=matplotlib&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-42A5F5?logo=seaborn&logoColor=white)  
+![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?logo=tailwindcss&logoColor=white)
 
-*   📚 **Currently Pursuing:** Bachelor’s in Information Technology (3rd Semester)
-*   ⚛️ **Specializing In:** Python, R, JavaScript, and Machine Learning
-*   🔧 **Building:** Next-gen trading strategy enhancers and a no-code ML model trainer
-*   ✅ **Past Wins:** Created AI chatbots, house price predictors, sentiment analysis tools, spam filters, communication apps, full-stack websites, and much more!
+#### Databases and ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational-336791?logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-Relational-4479A1?logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-Lightweight-003B57?logo=sqlite&logoColor=white)  
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-CA2C92?logo=sqlalchemy&logoColor=white)
 
-> _"Code is my Batarang; I never miss solving a problem."_
+#### DevOps & CI/CD
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonaws&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?logo=ansible&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?logo=terraform&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF?logo=githubactions&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-Automation-D24939?logo=jenkins&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white)  
+![Shell Scripting](https://img.shields.io/badge/Shell%20Script-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 
-Beyond technical endeavors, I enjoy solving complex real-world challenges through software development and AI-driven systems. My projects have spanned multiple domains, including finance, e-commerce, and communication technologies. I am always eager to learn, grow, and collaborate with other creative minds.
+#### Deployment & Tools  
+![Heroku](https://img.shields.io/badge/Heroku-Deploy-430098?logo=heroku&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-VersionControl-F05032?logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-API-orange?logo=postman&logoColor=white)  
+![cURL](https://img.shields.io/badge/cURL-CommandLine-073551?logo=curl&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-Hosting-000000?logo=vercel&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-Deploy-00C7B7?logo=netlify&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?logo=amazonaws&logoColor=white)
 
-* * *
+---
 
-📊 **Skill Arsenal**
---------------------
+### 📈 GitHub Stats
 
-### Programming Languages & Tools:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhmadNaddem&show_icons=true&theme=react&hide=prs&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhmadNaddem&layout=compact&theme=react)
 
-*   🔧 **Languages:** Python, R, C++, JavaScript, HTML, CSS
-*   💡 **Frameworks:** React, Node.js, Flask, Django, Express.js
-*   🚀 **Data Science:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-*   🧐 **AI/ML:** TensorFlow, Keras, NLP, Data Analytics, Model Deployment
-*   🌐 **DevOps:** Docker, GitHub Actions, CI/CD pipelines, Shell Scripting
-*   🔍 **Version Control:** Git, GitHub, Bitbucket
-*   ⚖️ **APIs:** RESTful APIs, API Integration
-*   🛠️ **Cloud Services:** AWS, Firebase
+---
 
-### Soft Skills:
+### 🧩 Currently Exploring
 
-*   🕵️ **Problem Solver:** I thrive on analyzing problems and coming up with efficient solutions.
-*   💬 **Effective Communicator:** Whether it’s documentation or collaborative discussions, I ensure my message is clear.
-*   💪 **Team Player:** I love working in collaborative environments where ideas and skills are shared.
-*   🔧 **Quick Learner:** I rapidly adapt to new technologies and frameworks.
-*   🌟 **Creative Thinker:** I approach challenges with an open mind and innovative solutions.
+- Building Smart SAAS Solutions  
+- Scalable AI/ML Systems & Models  
+- Advanced Backend Architectures 
+- Real-Time Data Processing with PostgreSQL x Python 🔥
 
-* * *
+---
 
-🚀 **Current Projects**
------------------------
-
-### 1\. 🔄 **Trading Strategy Improver:**
-
-Enhancing profitability through smarter strategies and market insights.
-
-*   Leveraging advanced machine learning models to analyze trading data.
-*   Developing algorithmic trading models to forecast trends.
-*   Ensuring data-driven improvements for optimized results.
-
-### 2\. 🔧 **No-Code ML Model Trainer:**
-
-Empowering users to train ML models without writing code.
-
-*   Creating a user-friendly platform that simplifies model training.
-*   Providing a seamless experience for users to upload their datasets and select models.
-*   Integrating visualization tools to present training results.
-
-![Bat Tech in Action](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRpenVmcWhwM3F0MG5wdjQzYndlaDdpN2Q4MnZjYm1oOGJ4Z2p2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)
-
-* * *
-
-🔍 **Let’s Connect!**
----------------------
-
-If you’re a recruiter, tech enthusiast, or just someone who appreciates great tech conversations—let’s connect!
-
-*   📧 [Email Me](mailto:your.email@example.com)
-*   💾 [My Portfolio](https://yourportfolio.com/)
-*   👨‍💻 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-*   💻 [GitHub](https://github.com/yourusername)
-
-I’m open to collaborations, mentorship, and brainstorming sessions on innovative tech ideas. Whether you're looking to discuss a challenging problem or create something groundbreaking, I'm here to contribute.
-
-![Recruiters Welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRpenVmcWhwM3F0MG5wdjQzYndlaDdpN2Q4MnZjYm1oOGJ4Z2p2NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.gif)
-
-* * *
-
-> _"With great code comes great responsibility."_
-
-Thanks for visiting my GitHub! Let’s create something amazing together 🌟.
+> 💡 *“I don’t just build apps — I build products that scale.”*
