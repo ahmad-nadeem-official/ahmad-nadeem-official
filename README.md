@@ -6,8 +6,9 @@
 ### 🧠 About Me
 - 🛠️ Tech entrepreneur building smart SAAS
 - 🌍 Based in **Lahore, Pakistan**
+- 🌐 Portfolio website **[Portfolio](ahmadnadeem.netlify.app)**
 - 🔥 student at **University of punjab, lahore**
-- ✉️ Reach me at **ahmadnadeem701065@gmail.com**
+- ✉️ Reach me at **[my email](ahmadnadeem701065@gmail.com)**
 - 💬 I love talking about **tech, system design, backend optimization, and scalable Ai/Ml models**
 - 🤝 Open to **freelance** & **open-source collaborations**
 
