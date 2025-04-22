@@ -76,7 +76,7 @@
 
 - Building Smart SAAS Solutions  
 - Scalable AI/ML Systems & Models  
-- Advanced Backend Architectures 
+- Advanced Frontend and Backend Architectures 
 - Real-Time Data Processing with PostgreSQL x Python 🔥
 
 ---
