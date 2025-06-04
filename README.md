@@ -1,3 +1,4 @@
+![tech](https://github.com/user-attachments/assets/0be7cb2d-e595-4c86-9abb-aed84399fa27)
 <h1 align="center">Hi 👋, I'm an Ai/Ml engineer & full stack developer </h1>
 <h3 align="center">🚀 Building Scalable Ai/Ml models | 💻 Backend Wizard | 🤝 Open for Freelance & OSS</h3>
 
